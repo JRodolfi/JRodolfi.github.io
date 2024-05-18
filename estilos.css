@@ -1,5 +1,5 @@
 body {
-	background-image: url(imagens/fundoroxo.png);
+	background-image: url(./imagens/fundoroxo.png);
 	background-repeat:no-repeat;
 	background-position:center;
 	background-attachment: fixed;
@@ -13,7 +13,7 @@ h1 {
 	color: #BC67E0;
 	font-family: 'Century Gothic', monospace;
 	font-size: 150px;
-	background-image: url(imagens/fundotit.png);
+	background-image: url(./imagens/fundotit.png);
 	background-repeat: repeat;
 	background-position: center;
 	color: transparent;
@@ -81,15 +81,3 @@ p {
 div.box {
 	display: inline-block;
 }
-
-
-
-
-
-
-	background-image: url(imagens/geo.avif);
-	background-repeat: repeat;
-	background-position: center;
-	color: transparent;
-	background-clip: text;
-
